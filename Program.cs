@@ -100,11 +100,6 @@ namespace IMDB
                                 yay = false;
                             }
 
-                            else
-                            {
-                                Console.WriteLine("Please enter a valid option");
-                            }
-
                         }
 
                         Console.WriteLine("Press Enter to return to the main menu");
@@ -131,7 +126,7 @@ namespace IMDB
 
                         
                     }
-
+                    Console.WriteLine();
                     Console.WriteLine("Press E to add a film to your watch list.");
                     Console.WriteLine("Press R to remove a film from your watch list");
                     Console.WriteLine("Press M to return to go back");
@@ -429,11 +424,9 @@ namespace IMDB
                     }
 
                 }
-
-                File.Delete(filePath);
-                File.Move(tempFile, filePath);
-
             }
+            File.Delete(filePath);
+            File.Move(tempFile, filePath);
         }
 
 
