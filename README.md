@@ -7,4 +7,5 @@ I use the Movies class to retrieve the title and ranking of every movie on the l
 
 Data source:
 https://www.kaggle.com/bartius/imdb-top-250-movies-info
+
 Note: As it is used in my project, the 'cast' field is removed the CSV file. 
