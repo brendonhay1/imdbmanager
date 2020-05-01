@@ -1,0 +1,521 @@
+rank,title,rating,genre,release_date,ranking,director,budget,runtime,cum_worldwide_gross
+0,The Shawshank Redemption,,Drama,14 October 1994,9.3,Frank Darabont,25000000,142,58500000
+1,The Godfather ,,"Crime; 
+Drama",24 March 1972,9.2,Francis Ford Coppola,6000000,175,245066411
+2,The Godfather: Part II ,PG,"Crime;Drama",20 December 1974,9.0,Francis Ford Coppola,13000000,202,
+3,The Dark Knight ,PG,"Action; Crime; 
+Drama",18 July 2008,9.0,Christopher Nolan,185000000,152,1004558444
+4,12 Angry Men,PG,Drama,April 1957,8.9,Sidney Lumet,350000,96,
+5,Schindler's List ,,,25 December 1993,8.9,Steven Spielberg,22000000,195,221000000
+6,The Lord of the Rings: The Return of the King ,,"Action; 
+Adventure; Drama",17 December 2003,8.9,Peter Jackson,94000000,201,1119929521
+7,Pulp Fiction ,,"Crime; Drama",14 October 1994,8.9,Quentin Tarantino,8000000,154,213928762
+8,"Il buono, il brutto, il cattivo ",,,23 December 1966,8.9,Sergio Leone,1200000,161,
+9,Fight Club ,R,Drama,15 October 1999,8.8,David Fincher,63000000,139,71000000
+10,The Lord of the Rings: The Fellowship of the Ring ,,"Adventure; 
+Drama; Fantasy",19 December 2001,8.8,Peter Jackson,93000000,178,871530324
+11,Forrest Gump ,PG,"Drama; Romance",6 July 1994,8.8,Robert Zemeckis,55000000,142,677945399
+12,Star Wars: Episode V - The Empire Strikes Back ,G,"Action; 
+Adventure; 
+Fantasy",20 June 1980,8.8,Irvin Kershner,18000000,124,247916602
+13,Inception ,PG,"Action; 
+Adventure; 
+Sci-Fi",16 July 2010,8.8,Christopher Nolan,160000000,148,825532764
+14,The Lord of the Rings: The Two Towers ,,"Adventure; 
+Drama; 
+Fantasy",18 December 2002,8.7,Peter Jackson,94000000,179,926047111
+15,One Flew Over the Cuckoo's Nest ,,Drama,19 November 1975,8.7,Milos Forman,4400000,133,
+16,Goodfellas ,,"Crime; 
+Drama",21 September 1990,8.7,Martin Scorsese,25000000,146,
+17,The Matrix ,,"Action; 
+Sci-Fi",31 March 1999,8.7,,63000000,136,463517383
+18,Shichinin no samurai ,PG,"Adventure; 
+Drama",26 April 1954,8.7,Akira Kurosawa,2000000,207,
+19,Cidade de Deus ,,"Crime; 
+Drama",30 August 2002,8.6,,3300000,130,32059295
+20,Se7en,,"Crime; 
+Drama; 
+Mystery",22 September 1995,8.6,David Fincher,33000000,127,327311859
+21,Star Wars ,,"Action; 
+Adventure; 
+Fantasy",25 May 1977,8.6,George Lucas,11000000,121,775398007
+22,The Silence of the Lambs ,,"Crime; 
+Drama; 
+Thriller",14 February 1991,8.6,Jonathan Demme,19000000,118,272742922
+23,It's a Wonderful Life ,G,"Drama; 
+Family; 
+Fantasy",7 January 1947,8.6,Frank Capra,3180000,130,
+24,La vita è bella ,PG,"Comedy; 
+Drama; 
+Romance",6 November 1998,8.6,Roberto Benigni,20000000,116,229163264
+25,The Usual Suspects ,,"Crime; 
+Mystery; 
+Thriller",15 September 1995,8.6,Bryan Singer,6000000,106,34449356
+26,Sen to Chihiro no kamikakushi ,PG,,20 July 2001,8.6,,19000000,125,274925095
+27,Saving Private Ryan ,,"Drama; 
+War",24 July 1998,8.6,Steven Spielberg,70000000,169,481840909
+28,Spider-Man: Into the Spider-Verse ,PG,,14 December 2018,8.7,,90000000,117,149653583
+29,Léon ,,"Crime; 
+Drama; 
+Thriller",14 September 1994,8.6,Luc Besson,,110,45501238
+30,The Green Mile ,,"Crime; 
+Drama; 
+Fantasy",10 December 1999,8.5,Frank Darabont,60000000,189,286801374
+31,Interstellar ,PG,"Adventure; 
+Drama; 
+Sci-Fi",7 November 2014,8.6,Christopher Nolan,165000000,169,675020017
+32,Psycho ,,,8 September 1960,8.5,Alfred Hitchcock,806947,109,50000000
+33,American History X ,,Drama,20 November 1998,8.5,Tony Kaye,7500000,119,23875127
+34,City Lights ,G,"Comedy; 
+Drama; 
+Romance",7 March 1931,8.5,Charles Chaplin,1500000,87,
+35,Once Upon a Time in the West ,,,21 December 1968,8.5,Sergio Leone,5000000,165,
+36,Casablanca ,G,"Drama; 
+Romance; 
+War",23 January 1943,8.5,Michael Curtiz,950000,102,
+37,Modern Times ,,"Comedy; 
+Drama; 
+Family",25 February 1936,8.5,Charles Chaplin,1500000,87,
+38,The Pianist ,,,24 January 2003,8.5,Roman Polanski,35000000,150,120072577
+39,The Intouchables ,,,2 November 2011,8.5,,,112,426480871
+40,The Departed ,,"Crime; 
+Drama; 
+Thriller",6 October 2006,8.5,Martin Scorsese,90000000,151,289847354
+41,Terminator 2: Judgment Day,,"Action; 
+Sci-Fi",3 July 1991,8.5,James Cameron,102000000,137,315000000
+42,Back to the Future ,PG,"Adventure; 
+Comedy; 
+Sci-Fi",3 July 1985,8.5,Robert Zemeckis,19000000,116,381109762
+43,Whiplash ,,"Drama; 
+Music",15 October 2014,8.5,Damien Chazelle,3300000,106,48982041
+44,Rear Window ,PG,"Mystery; 
+Thriller",September 1954,8.5,Alfred Hitchcock,1000000,112,36888916
+45,Raiders of the Lost Ark ,,"Action; 
+Adventure",12 June 1981,8.5,Steven Spielberg,18000000,115,389925971
+46,The Lion King ,G,,24 June 1994,8.5,,45000000,88,987483777
+47,Gladiator ,,"Action; 
+Adventure; 
+Drama",5 May 2000,8.5,Ridley Scott,103000000,155,457640427
+48,The Prestige ,,"Drama; 
+Mystery; 
+Sci-Fi",20 October 2006,8.5,Christopher Nolan,40000000,130,109676311
+49,Apocalypse Now ,R,"Drama; 
+War",15 August 1979,8.5,Francis Ford Coppola,31500000,147,
+50,Memento ,,"Mystery; 
+Thriller",25 May 2001,8.5,Christopher Nolan,9000000,113,39723096
+51,Alien ,R,,22 June 1979,8.5,Ridley Scott,11000000,116,203630630
+52,The Great Dictator ,PG,"Comedy; 
+Drama; 
+War",7 March 1941,8.5,Charles Chaplin,2000000,125,11000000
+53,Nuovo Cinema Paradiso ,PG,Drama,17 November 1988,8.5,Giuseppe Tornatore,5000000,155,
+54,Hotaru no haka ,PG,,16 April 1988,8.5,Isao Takahata,3700000,89,
+55,Avengers: Infinity War ,PG,"Action; 
+Adventure; 
+Fantasy",27 April 2018,8.5,,321000000,149,2048709917
+56,Sunset Blvd. ,PG,"Drama; 
+Film-Noir",29 September 1950,8.4,Billy Wilder,1752000,110,5303175
+57,The Lives of Others ,,"Drama; 
+Thriller",23 March 2006,8.4,Florian Henckel von Donnersmarck,2000000,137,77356819
+58,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb ,PG,Comedy,29 January 1964,8.4,Stanley Kubrick,1800000,95,
+59,Paths of Glory ,PG,"Drama; 
+War",November 1957,8.4,Stanley Kubrick,935000,88,
+60,The Shining ,R,"Drama; 
+Horror",13 June 1980,8.4,Stanley Kubrick,19000000,144,
+61,Django Unchained ,,"Drama; 
+Western",25 December 2012,8.4,Quentin Tarantino,100000000,165,425368238
+62,WALL·E ,G,,27 June 2008,8.4,Andrew Stanton,180000000,98,534767889
+63,Mononoke-hime ,,,26 November 1999,8.4,Hayao Miyazaki,,134,159375308
+64,Witness for the Prosecution ,PG,"Crime; 
+Drama; 
+Mystery",6 February 1958,8.4,Billy Wilder,3000000,116,16350000
+65,American Beauty ,,Drama,1 October 1999,8.4,Sam Mendes,15000000,122,226200000
+66,The Dark Knight Rises ,,"Action; 
+Thriller",20 July 2012,8.4,Christopher Nolan,250000000,164,1084939099
+67,Oldeuboi ,R,"Action; 
+Drama; 
+Mystery",21 November 2003,8.4,Chan-wook Park,3000000,120,14980005
+68,Aliens ,R,"Action; 
+Adventure; 
+Sci-Fi",18 July 1986,8.4,James Cameron,18500000,137,131060248
+69,Once Upon a Time in America ,,"Crime; 
+Drama",1 June 1984,8.4,Sergio Leone,30000000,229,
+70,Coco ,G,,22 November 2017,8.4,,175000000,,807082196
+71,Das Boot ,,"Adventure; 
+Drama; 
+Thriller",17 September 1981,8.4,Wolfgang Petersen,14000000,149,73482661
+72,Citizen Kane ,G,"Drama; 
+Mystery",5 September 1941,8.4,Orson Welles,839727,119,
+73,Braveheart ,,,24 May 1995,8.4,Mel Gibson,72000000,178,210409945
+74,Vertigo ,G,"Mystery; 
+Romance; 
+Thriller",21 July 1958,8.3,Alfred Hitchcock,2479000,128,25000000
+75,North by Northwest ,,"Adventure; 
+Mystery; 
+Thriller",26 September 1959,8.3,Alfred Hitchcock,3101000,136,22213000
+76,Reservoir Dogs ,,"Crime; 
+Drama; 
+Thriller",2 September 1992,8.3,Quentin Tarantino,1200000,99,
+77,Star Wars: Episode VI - Return of the Jedi ,G,"Action; 
+Adventure; 
+Fantasy",25 May 1983,8.3,Richard Marquand,32500000,131,572705079
+78,M - Eine Stadt sucht einen Mörder ,,"Crime; 
+Mystery; 
+Thriller",31 August 1931,8.3,Fritz Lang,,117,
+79,Kimi no na wa. ,G,,26 August 2016,8.4,Makoto Shinkai,,106,357986087
+80,Amadeus ,PG,,19 September 1984,8.3,Milos Forman,18000000,160,
+81,Requiem for a Dream ,R,Drama,3 November 2000,8.3,Darren Aronofsky,4500000,102,7390108
+82,Dangal ,PG,"Action; 
+Biography; 
+Drama",23 December 2016,8.5,Nitesh Tiwari,,161,310000000
+83,Taare Zameen Par ,PG,"Drama; 
+Family",21 December 2007,8.4,,,165,21897373
+84,Lawrence of Arabia ,PG,"Adventure; 
+Biography; 
+Drama",30 January 1963,8.3,David Lean,15000000,216,77324144
+85,Eternal Sunshine of the Spotless Mind ,,"Drama; 
+Romance; 
+Sci-Fi",19 March 2004,8.3,Michel Gondry,20000000,108,73169222
+86,A Clockwork Orange ,R,"Crime; 
+Drama; 
+Sci-Fi",13 January 1972,8.3,Stanley Kubrick,2200000,136,
+87,3 Idiots,PG,"Comedy; 
+Drama",25 December 2009,8.4,Rajkumar Hirani,,170,80000000
+88,2001: A Space Odyssey,G,"Adventure; 
+Sci-Fi",12 May 1968,8.3,Stanley Kubrick,12000000,149,190700000
+89,Amélie ,,"Comedy; 
+Romance",9 November 2001,8.3,Jean-Pierre Jeunet,,122,173921954
+90,Toy Story ,G,,22 November 1995,8.3,John Lasseter,30000000,81,373554033
+91,Double Indemnity ,,"Crime; 
+Drama; 
+Film-Noir",6 July 1944,8.3,Billy Wilder,927262,107,
+92,Taxi Driver ,,"Crime; 
+Drama",8 February 1976,8.3,Martin Scorsese,1300000,114,
+93,Singin' in the Rain ,G,"Comedy; 
+Musical; 
+Romance",11 April 1952,8.3,,2540800,103,13979088
+94,Inglourious Basterds ,,"Adventure; 
+Drama; 
+War",21 August 2009,8.3,,75000000,153,313600000
+95,Full Metal Jacket ,R,"Drama; 
+War",10 July 1987,8.3,Stanley Kubrick,30000000,116,
+96,To Kill a Mockingbird ,PG,"Crime; 
+Drama",16 March 1963,8.3,Robert Mulligan,2000000,129,
+97,Ladri di biciclette ,,Drama,24 November 1948,8.3,Vittorio De Sica,133000,89,
+98,The Kid ,,"Comedy; 
+Drama; 
+Family",6 February 1921,8.3,Charles Chaplin,250000,68,
+99,The Sting ,PG,"Comedy; 
+Crime; 
+Drama",25 December 1973,8.3,George Roy Hill,5500000,129,
+100,Good Will Hunting ,,"Drama; 
+Romance",9 January 1998,8.3,Gus Van Sant,10000000,126,225933435
+101,Toy Story 3,G,,18 June 2010,8.3,Lee Unkrich,200000000,103,1063171911
+102,Jagten ,R,Drama,10 January 2013,8.3,Thomas Vinterberg,3800000,115,18309793
+103,Snatch ,,"Comedy; 
+Crime",1 September 2000,8.3,Guy Ritchie,,104,83557872
+104,Scarface ,,"Crime; 
+Drama",9 December 1983,8.3,Brian De Palma,25000000,170,65884703
+105,Monty Python and the Holy Grail ,PG,"Adventure; 
+Comedy; 
+Fantasy",27 June 1975,8.3,,,91,5028948
+106,Per qualche dollaro in più ,,,25 March 1966,8.3,Sergio Leone,600000,132,
+107,L.A. Confidential ,,"Crime; 
+Drama; 
+Mystery",19 September 1997,8.3,Curtis Hanson,35000000,138,126216940
+108,The Apartment ,PG,"Comedy; 
+Drama; 
+Romance",16 September 1960,8.3,Billy Wilder,3000000,125,25000000
+109,Metropolis ,G,"Drama; 
+Sci-Fi",5 March 1927,8.3,Fritz Lang,,153,
+110,Jodaeiye Nader az Simin ,PG-13,Drama,16 March 2011,8.3,Asghar Farhadi,500000,123,24426169
+111,Indiana Jones and the Last Crusade ,PG,"Action; 
+Adventure; 
+Fantasy",24 May 1989,8.2,Steven Spielberg,48000000,127,474171806
+112,Rashômon ,G,"Crime; 
+Drama; 
+Mystery",26 August 1950,8.3,Akira Kurosawa,250000,88,
+113,Up ,G,,29 May 2009,8.3,,175000000,96,731342744
+114,All About Eve ,PG,Drama,27 October 1950,8.3,Joseph L. Mankiewicz,1400000,138,
+115,Batman Begins ,PG,"Action; 
+Adventure; 
+Thriller",15 June 2005,8.3,Christopher Nolan,150000000,140,374218673
+116,Yôjinbô ,,"Action; 
+Drama; 
+Thriller",25 April 1961,8.3,Akira Kurosawa,,110,
+117,Some Like It Hot ,PG,"Comedy; 
+Romance",14 April 1959,8.2,Billy Wilder,2883848,121,
+118,Unforgiven ,,"Drama; 
+Western",7 August 1992,8.2,Clint Eastwood,14400000,130,159157447
+119,Der Untergang ,,,16 September 2004,8.2,Oliver Hirschbiegel,,156,92180910
+120,Die Hard ,R,"Action; 
+Thriller",20 July 1988,8.2,John McTiernan,28000000,132,140767956
+121,The Treasure of the Sierra Madre ,PG,"Adventure; 
+Drama; 
+Western",24 January 1948,8.2,John Huston,3000000,126,
+122,Heat ,,"Crime; 
+Drama; 
+Thriller",15 December 1995,8.2,Michael Mann,60000000,170,107000000
+123,Ikiru ,,Drama,9 October 1952,8.3,Akira Kurosawa,,143,
+124,Incendies ,,"Drama; 
+Mystery; 
+War",12 January 2011,8.2,Denis Villeneuve,6800000,131,12597210
+125,Raging Bull ,,,19 December 1980,8.2,Martin Scorsese,18000000,129,
+126,The Great Escape ,PG,"Adventure; 
+Drama; 
+History",4 July 1963,8.2,John Sturges,4000000,172,
+127,Bacheha-Ye aseman ,PG,"Drama; 
+Family",1997,8.3,Majid Majidi,180000,89,
+128,Pan's Labyrinth ,,"Drama; 
+Fantasy; 
+War",19 January 2007,8.2,Guillermo del Toro,,118,87041569
+129,Babam ve Oglum ,,"Drama; 
+Family",18 November 2005,8.4,Çagan Irmak,,113,
+130,Chinatown ,,"Drama; 
+Mystery; 
+Thriller",20 June 1974,8.2,Roman Polanski,6000000,130,30000000
+131,The Third Man ,,,12 October 1949,8.2,Carol Reed,,104,
+132,Bohemian Rhapsody ,PG,,2 November 2018,8.3,Bryan Singer,52000000,134,433000000
+133,Tonari no Totoro ,G,,16 April 1988,8.2,Hayao Miyazaki,3700000,86,
+134,Hauru no ugoku shiro ,PG,,17 June 2005,8.2,Hayao Miyazaki,24000000,119,235184110
+135,Ran ,,"Action; 
+Drama",1 June 1985,8.2,Akira Kurosawa,11500000,162,
+136,Judgment at Nuremberg ,,"Drama; 
+War",18 December 1961,8.2,Stanley Kramer,3000000,186,10000000
+137,El secreto de sus ojos ,,"Drama; 
+Mystery; 
+Romance",13 August 2009,8.2,Juan José Campanella,2000000,129,33965843
+138,The Gold Rush ,,"Adventure; 
+Comedy; 
+Drama",1925,8.2,Charles Chaplin,923000,95,
+139,The Bridge on the River Kwai ,PG,"Adventure; 
+Drama; 
+War",11 October 1957,8.2,David Lean,3000000,161,
+140,A Beautiful Mind ,PG,,4 January 2002,8.2,Ron Howard,58000000,135,313542341
+141,"Lock, Stock and Two Smoking Barrels ",,"Comedy; 
+Crime",28 August 1998,8.2,Guy Ritchie,,107,28356188
+142,Casino ,,"Crime; 
+Drama",22 November 1995,8.2,Martin Scorsese,,178,
+143,"Three Billboards Outside Ebbing, Missouri ",,"Comedy; 
+Crime; 
+Drama",1 December 2017,8.2,Martin McDonagh,15000000,115,157880842
+144,On the Waterfront ,PG,"Crime; 
+Drama; 
+Thriller",22 June 1954,8.2,Elia Kazan,910000,108,
+145,Det sjunde inseglet ,,"Drama; 
+Fantasy",16 February 1957,8.2,Ingmar Bergman,150000,96,
+146,Inside Out ,G,,19 June 2015,8.2,,175000000,95,857611174
+147,The Elephant Man ,,,10 October 1980,8.2,David Lynch,5000000,124,
+148,Room ,PG,"Drama; 
+Thriller",15 January 2016,8.2,Lenny Abrahamson,13000000,118,36262783
+149,The Wolf of Wall Street ,,,25 December 2013,8.2,Martin Scorsese,100000000,180,392000694
+150,Mr. Smith Goes to Washington ,G,"Comedy; 
+Drama",9 November 1939,8.2,Frank Capra,1500000,129,
+151,V for Vendetta ,,"Action; 
+Drama; 
+Sci-Fi",17 March 2006,8.2,James McTeigue,54000000,132,132511035
+152,Warrior ,,"Drama; 
+Sport",9 September 2011,8.2,Gavin O'Connor,25000000,140,23057115
+153,Blade Runner ,,"Sci-Fi; 
+Thriller",25 June 1982,8.2,Ridley Scott,28000000,117,
+154,Dial M for Murder ,PG,"Crime; 
+Thriller",29 May 1954,8.2,Alfred Hitchcock,1400000,105,13080000
+155,Smultronstället ,,"Drama; 
+Romance",26 December 1957,8.2,Ingmar Bergman,,91,
+156,The General ,,"Action; 
+Adventure; 
+Comedy",24 February 1927,8.2,,750000,67,
+157,No Country for Old Men ,,"Crime; 
+Drama; 
+Thriller",21 November 2007,8.1,,25000000,122,171627166
+158,Trainspotting ,R,Drama,26 July 1996,8.2,Danny Boyle,3500000,93,71558971
+159,There Will Be Blood ,PG,Drama,25 January 2008,8.2,Paul Thomas Anderson,25000000,158,77208711
+160,The Sixth Sense ,,"Drama; 
+Mystery; 
+Thriller",6 August 1999,8.1,M. Night Shyamalan,40000000,107,672806292
+161,Gone with the Wind ,G,"Drama; 
+History; 
+Romance",17 January 1940,8.2,,3977000,238,400176459
+162,The Thing ,,,25 June 1982,8.1,John Carpenter,15000000,109,
+163,Fargo ,,"Crime; 
+Drama; 
+Thriller",5 April 1996,8.1,,7000000,98,36000000
+164,Gran Torino ,,Drama,9 January 2009,8.1,Clint Eastwood,33000000,116,269958228
+165,The Deer Hunter ,,"Drama; 
+War",23 February 1979,8.1,Michael Cimino,15000000,183,
+166,Finding Nemo ,G,,30 May 2003,8.1,,94000000,100,936743261
+167,Idi i smotri ,,"Drama; 
+War",17 October 1985,8.2,Elem Klimov,,142,
+168,The Big Lebowski ,,"Comedy; 
+Crime",6 March 1998,8.1,,15000000,117,46189568
+169,Sherlock Jr. ,,"Action; 
+Comedy; 
+Romance",11 May 1924,8.2,Buster Keaton,,45,
+170,Shutter Island ,,"Mystery; 
+Thriller",19 February 2010,8.1,Martin Scorsese,80000000,138,294804195
+171,Kill Bill: Vol. 1,,"Action; 
+Crime; 
+Thriller",10 October 2003,8.1,Quentin Tarantino,30000000,111,180949045
+172,Cool Hand Luke ,,"Crime; 
+Drama",1 November 1967,8.1,Stuart Rosenberg,3200000,126,16217773
+173,Rebecca ,,"Drama; 
+Mystery; 
+Romance",12 April 1940,8.1,Alfred Hitchcock,1288000,130,7592465
+174,Tôkyô monogatari ,,Drama,3 November 1953,8.2,Yasujirô Ozu,,136,
+175,Mary and Max ,G,,9 April 2009,8.1,Adam Elliot,,92,1739445
+176,Roma ,PG,Drama,21 November 2018,8.2,Alfonso Cuarón,,135,
+177,Hacksaw Ridge ,,,4 November 2016,8.1,Mel Gibson,40000000,139,175302354
+178,Gone Girl ,,"Crime; 
+Drama; 
+Mystery",3 October 2014,8.1,David Fincher,61000000,149,369330363
+179,How to Train Your Dragon ,PG,,26 March 2010,8.1,,165000000,98,494878759
+180,Sunrise: A Song of Two Humans ,,"Drama; 
+Romance",4 November 1927,8.2,F.W. Murnau,,94,
+181,Relatos salvajes ,,"Comedy; 
+Drama; 
+Thriller",21 August 2014,8.1,Damián Szifron,3300000,122,36353750
+182,Jurassic Park ,PG,"Adventure; 
+Sci-Fi; 
+Thriller",11 June 1993,8.1,Steven Spielberg,63000000,127,1029153882
+183,Into the Wild ,,"Adventure; 
+Biography; 
+Drama",28 September 2007,8.1,Sean Penn,15000000,148,56255142
+184,Life of Brian ,,Comedy,8 November 1979,8.1,Terry Jones,4000000,94,36045115
+185,In the Name of the Father ,,,21 January 1994,8.1,Jim Sheridan,13000000,133,40700000
+186,The Truman Show ,PG,"Comedy; 
+Drama; 
+Sci-Fi",5 June 1998,8.1,Peter Weir,60000000,103,264118201
+187,The Grand Budapest Hotel ,,"Adventure; 
+Comedy; 
+Drama",6 March 2014,8.1,Wes Anderson,25000000,99,174600318
+188,It Happened One Night ,PG,"Comedy; 
+Romance",22 February 1934,8.1,Frank Capra,325000,105,
+189,Platoon ,,"Drama; 
+War",6 February 1987,8.1,Oliver Stone,6000000,120,
+190,Stand by Me ,PG,"Adventure; 
+Drama",26 November 1986,8.1,Rob Reiner,8000000,89,
+191,Eskiya ,,"Crime; 
+Drama; 
+Thriller",29 November 1996,8.3,Yavuz Turgul,,128,1979000
+192,Network ,PG,Drama,27 November 1976,8.1,Sidney Lumet,,121,
+193,Stalker ,,"Drama; 
+Sci-Fi",17 April 1980,8.1,Andrei Tarkovsky,,162,
+194,Persona ,,"Drama; 
+Thriller",18 October 1966,8.1,Ingmar Bergman,,85,
+195,Salinui chueok ,,"Action; 
+Crime; 
+Drama",2 May 2003,8.1,Joon-ho Bong,2800000,131,
+196,Ben-Hur ,G,"Adventure; 
+Drama; 
+History",29 January 1960,8.1,William Wyler,15900000,212,196200000
+197,Hotel Rwanda ,,,4 March 2005,8.1,Terry George,17500000,121,36532987
+198,12 Years a Slave,,,8 November 2013,8.1,Steve McQueen,20000000,134,187733202
+199,Million Dollar Baby ,PG,"Drama; 
+Sport",28 January 2005,8.1,Clint Eastwood,30000000,132,216763646
+200,Andrei Rublev ,,,December 1969,8.2,Andrei Tarkovsky,,165,
+201,Rush ,,"Action; 
+Biography; 
+Drama",27 September 2013,8.1,Ron Howard,38000000,123,90247624
+202,La passion de Jeanne d'Arc ,,,25 October 1928,8.2,Carl Theodor Dreyer,,110,
+203,Le salaire de la peur ,,"Adventure; 
+Drama; 
+Thriller",22 April 1953,8.1,Henri-Georges Clouzot,,131,
+204,Before Sunrise ,PG,"Drama; 
+Romance",27 January 1995,8.1,Richard Linklater,2500000,101,17200000
+205,Mad Max: Fury Road ,,"Action; 
+Adventure; 
+Sci-Fi",15 May 2015,8.1,George Miller,,120,
+206,Les quatre cents coups ,,"Crime; 
+Drama",3 June 1959,8.1,François Truffaut,,99,
+207,Prisoners ,,"Crime; 
+Drama; 
+Mystery",20 September 2013,8.1,Denis Villeneuve,46000000,153,122126687
+208,Hachi: A Dog's Tale ,,"Drama; 
+Family",12 March 2010,8.1,Lasse Hallström,16000000,93,47707417
+209,Spotlight ,,"Crime; 
+Drama; 
+History",20 November 2015,8.1,Tom McCarthy,20000000,129,98275238
+210,Logan ,,"Action; 
+Drama; 
+Sci-Fi",3 March 2017,8.1,James Mangold,97000000,137,619021436
+211,Rang De Basanti ,,"Comedy; 
+Drama",26 January 2006,8.2,Rakeysh Omprakash Mehra,,157,
+212,Amores perros ,,"Drama; 
+Thriller",16 June 2000,8.1,Alejandro G. Iñárritu,2000000,154,
+213,The Princess Bride ,PG,"Adventure; 
+Family; 
+Fantasy",9 October 1987,8.1,Rob Reiner,16000000,98,
+214,Catch Me If You Can ,PG,,2 January 2003,8.1,Steven Spielberg,52000000,141,352114312
+215,Kaze no tani no Naushika ,PG,,11 March 1984,8.1,Hayao Miyazaki,1000000,117,
+216,Harry Potter and the Deathly Hallows: Part 2,PG,"Adventure; 
+Drama; 
+Fantasy",15 July 2011,8.1,David Yates,125000000,130,1341511219
+217,Butch Cassidy and the Sundance Kid ,,,24 October 1969,8.1,George Roy Hill,6000000,110,
+218,Rocky ,PG,"Drama; 
+Sport",3 December 1976,8.1,John G. Avildsen,960000,120,225000000
+219,Barry Lyndon ,PG,"Adventure; 
+Drama; 
+History",18 December 1975,8.1,Stanley Kubrick,11000000,185,31500000
+220,"Monsters, Inc. ",G,,2 November 2001,8.1,,115000000,92,562816256
+221,The Grapes of Wrath ,PG,"Drama; 
+History",15 March 1940,8.1,John Ford,800000,129,
+222,The Maltese Falcon ,PG,,18 October 1941,8.1,John Huston,375000,100,1772000
+223,Dead Poets Society ,,"Comedy; 
+Drama",9 June 1989,8.1,Peter Weir,16400000,128,140000000
+224,Donnie Darko ,,"Drama; 
+Sci-Fi; 
+Thriller",26 October 2001,8.1,Richard Kelly,,113,
+225,The Terminator ,R,"Action; 
+Sci-Fi",26 October 1984,8.0,James Cameron,6400000,107,40000000
+226,Gandhi ,PG,,17 February 1983,8.1,Richard Attenborough,22000000,191,127767889
+227,Les diaboliques ,,"Crime; 
+Drama; 
+Horror",29 January 1955,8.1,Henri-Georges Clouzot,,117,
+228,La haine ,,"Crime; 
+Drama",1 September 1995,8.1,Mathieu Kassovitz,,98,
+229,Groundhog Day ,PG,"Comedy; 
+Fantasy; 
+Romance",12 February 1993,8.0,Harold Ramis,14600000,101,
+230,The Wizard of Oz ,G,"Adventure; 
+Family; 
+Fantasy",21 August 1939,8.0,,2800000,102,
+231,Jaws ,R,"Adventure; 
+Drama; 
+Thriller",20 June 1975,8.0,Steven Spielberg,8000000,124,470653000
+232,Le notti di Cabiria ,,Drama,16 October 1957,8.1,Federico Fellini,,110,
+233,The Help ,PG,Drama,10 August 2011,8.1,Tate Taylor,25000000,146,216639112
+234,Faa yeung nin wa ,PG,"Drama; 
+Romance",29 September 2000,8.1,Kar-Wai Wong,,98,
+235,Mandariinid ,,"Drama; 
+War",17 October 2013,8.2,Zaza Urushadze,,87,942487
+236,Sanjuro ,,"Action; 
+Crime; 
+Drama",1 January 1962,8.1,Akira Kurosawa,,96,
+237,Before Sunset ,,"Drama; 
+Romance",30 July 2004,8.1,Richard Linklater,2700000,80,
+238,Paper Moon ,PG,"Comedy; 
+Drama",9 May 1973,8.1,Peter Bogdanovich,2500000,102,
+239,Ah-ga-ssi ,,"Drama; 
+Romance; 
+Thriller",28 October 2016,8.1,Chan-wook Park,,144,1968494
+240,"Paris, Texas ",,Drama,23 August 1984,8.1,Wim Wenders,,145,
+241,Tenkû no shiro Rapyuta ,PG,,2 August 1986,8.1,Hayao Miyazaki,,125,
+242,The Best Years of Our Lives ,,"Drama; 
+Romance; 
+War",29 May 1947,8.1,William Wyler,2100000,170,44309982
+243,Pirates of the Caribbean: The Curse of the Black Pearl ,,"Action; 
+Adventure; 
+Fantasy",9 July 2003,8.0,Gore Verbinski,140000000,143,654264015
+244,Gangs of Wasseypur ,,"Action; 
+Comedy; 
+Crime",2 August 2012,8.2,Anurag Kashyap,,321,
+245,Guardians of the Galaxy ,PG,"Action; 
+Adventure; 
+Comedy",1 August 2014,8.1,James Gunn,170000000,121,774176600
+246,Fanny och Alexander ,,Drama,17 December 1982,8.1,Ingmar Bergman,6000000,188,
+247,La La Land ,PG,"Comedy; 
+Drama; 
+Music",25 December 2016,8.0,Damien Chazelle,30000000,128,446092357
+248,Drishyam ,PG,"Crime; 
+Drama; 
+Thriller",31 July 2015,8.3,Nishikant Kamat,9400000,163,
+249,8½,PG,Drama,16 February 1963,8.1,Federico Fellini,,138,
