@@ -152,7 +152,10 @@ namespace IMDB
                         try
                         {
                             deleteItem(remove, "movieList.txt");  
-                            Console.WriteLine("Film removed");
+                            Console.WriteLine("Film removed!");
+                            Console.WriteLine("Press enter to continue");
+                            Console.ReadLine();
+                            Console.Clear();
                         }
 
                         catch(Exception ex)
